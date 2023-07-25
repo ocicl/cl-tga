@@ -1,0 +1,10 @@
+* cl-tga
+
+TGA file loader in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/cl-tga.git   |
+| commit  | 4dc2f7b  |
+| systems | cl-tga |
+|---------+-------------------------------------------|
+
